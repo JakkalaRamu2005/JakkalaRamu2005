@@ -1,24 +1,96 @@
 <h1 align="center">Hi 👋, I'm Jakkala Ramu</h1>
-<h3 align="center">Aspiring Software Developer | AI & Web Development Learner</h3>
+<h3 align="center">Full-Stack Developer | Building AI & Web Apps</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jakkalaramu2005&label=Profile%20views&color=0e75b6&style=flat" alt="jakkalaramu2005" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jakkalaramu2005" alt="jakkalaramu2005" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://ramuportfolio.netlify.app/](https://ramuportfolio.netlify.app/)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/ramu-jakkala/](https://www.linkedin.com/in/ramu-jakkala/)
-
-- 📫 How to reach me **ramujakkala1@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/https://leetcode.com/u/jakkalaramu233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/jakkalaramu233/" height="30" width="40" /></a>
+<p align="center">
+I build useful web apps and learn AI tools. Always learning something new every day.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jakkalaramu2005&show_icons=true&locale=en" alt="jakkalaramu2005" /></p>
+## About Me  
+- 🎓 Computer Science student at NIAT & BITS Pilani  
+- 💻 Learning MERN Stack, Next.js, and TypeScript & DSA
+- 🤖 Exploring AI tools and automation  
+- ✍️ I share what I learn on LinkedIn  
+- 🎯 Goal: Build projects that solve real problems  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jakkalaramu2005&" alt="jakkalaramu2005" /></p>
+---
+
+## Currently Working On
+- Building AI chatbots for businesses  
+- Learning advanced React patterns  
+- Improving problem-solving skills on LeetCode  
+
+---
+
+## Skills  
+
+**Frontend**  
+HTML • CSS • JavaScript • React • Next.js • Tailwind CSS • Bootstrap
+
+**Backend**  
+Node.js • Express • MongoDB • MySQL • REST APIs
+
+**Other**  
+Python • Git • GitHub • Postman • AI Tools  
+
+---
+
+## Projects  
+
+### Smart Dharani – Agricultural Assistant  
+AI-powered web app that helps farmers with crop suggestions, issue diagnosis, guides, and marketplace.  
+**Tech:** React • Node.js • Express • MySQL • Gemini AI  
+🔗 [View Project](link-to-github-repo) | [Live Demo](link-to-demo)
+
+### E-Commerce Platform  
+Full shopping website with login, cart, products, and checkout.  
+**Tech:** React • Node.js • Express • MySQL  
+🔗 [View Project](link-to-github-repo) | [Live Demo](link-to-demo)
+
+### Learning Platform  
+A platform for students to learn new skills using free resources.  
+**Tech:** Next.js • Google Sheets • n8n Automation  
+🔗 [View Project](link-to-github-repo)
+
+---
+
+## Connect With Me  
+<p align="left">
+<a href="https://www.linkedin.com/in/ramu-jakkala/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+</a>
+<a href="https://leetcode.com/u/jakkalaramu233/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="40" width="40" />
+</a>
+<a href="https://github.com/JakkalaRamu2005" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+</a>
+</p>
+
+📧 jakkalaramu233@gmail.com  
+🌐 [Portfolio Website](https://ramuportfolio.netlify.app/)
+
+---
+
+## Languages & Tools  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+## GitHub Stats  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jakkalaramu2005&show_icons=true&theme=default" alt="stats" /></p>
+
+---
+
+⭐ Thanks for visiting! Let's connect and build something great together.
