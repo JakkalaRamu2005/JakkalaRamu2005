@@ -17,8 +17,6 @@ I build useful web apps and learn AI tools. Always learning something new every 
 ---
 
 ## Currently Working On
-- Building AI chatbots for businesses  
-- Learning advanced React patterns  
 - Improving problem-solving skills on LeetCode  
 
 ---
@@ -33,25 +31,6 @@ Node.js • Express • MongoDB • MySQL • REST APIs
 
 **Other**  
 Python • Git • GitHub • Postman • AI Tools  
-
----
-
-## Projects  
-
-### Smart Dharani – Agricultural Assistant  
-AI-powered web app that helps farmers with crop suggestions, issue diagnosis, guides, and marketplace.  
-**Tech:** React • Node.js • Express • MySQL • Gemini AI  
-🔗 [View Project](link-to-github-repo) | [Live Demo](link-to-demo)
-
-### E-Commerce Platform  
-Full shopping website with login, cart, products, and checkout.  
-**Tech:** React • Node.js • Express • MySQL  
-🔗 [View Project](link-to-github-repo) | [Live Demo](link-to-demo)
-
-### Learning Platform  
-A platform for students to learn new skills using free resources.  
-**Tech:** Next.js • Google Sheets • n8n Automation  
-🔗 [View Project](link-to-github-repo)
 
 ---
 
