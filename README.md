@@ -1,10 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jakkala Ramu</h1>
-<h3 align="center">Full-Stack Developer | Building AI & Web Apps</h3>
-
-<p align="center">
-I build useful web apps and learn AI tools. Always learning something new every day.
-</p>
-
 ---
 
 ## About Me  
