@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Jakkala Ramu</h1>
+<h1 align="center">Hi , I'm Jakkala Ramu</h1>
 ---
 
 ## About Me  
-- 🎓 Computer Science student at NIAT & BITS Pilani  
-- 💻 Learning MERN Stack, Next.js, and TypeScript & DSA
-- 🤖 Exploring AI tools and automation  
-- ✍️ I share what I learn on LinkedIn  
-- 🎯 Goal: Build projects that solve real problems  
+- Computer Science student at NIAT & BITS Pilani  
+- Learning MERN Stack, Next.js, and TypeScript & DSA
+- Exploring AI tools and automation  
+- I share what I learn on LinkedIn  
+- Goal: Build projects that solve real problems  
 
 ---
 
 ## Currently Working On
-- Improving problem-solving skills on LeetCode  
+- Improving problem-solving skills on LeetCode & codeforces
 
 ---
 
